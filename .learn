@@ -7,6 +7,8 @@ tags:
   - validations
 languages:
   - ruby
+assessments:
+  - fork
 module: Building complete apps
 level: intermediate
 resources: 2
